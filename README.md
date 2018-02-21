@@ -7,7 +7,11 @@ This is a Go client library for News API V2.
 
 # Usage
 
-First of all you need to import the package
+First download the package, run in your console: 
+```
+go get -u github.com/Abdujabbor/newsapi_golang
+```
+And then  import the package
 ```
 import apiClient "github.com/Abdujabbor/newsapi_golang"
 ```
