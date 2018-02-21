@@ -1,4 +1,4 @@
-package main
+package newsapi_golang
 
 import (
 	"bytes"
